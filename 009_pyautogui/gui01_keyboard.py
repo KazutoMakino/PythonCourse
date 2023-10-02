@@ -1,4 +1,4 @@
-"""pyautogui のキーボード操作について
+"""Pyautogui のキーボード操作について.
 
 References:
 - https://pyautogui.readthedocs.io/en/latest/
@@ -10,7 +10,6 @@ Blog:
 ---
 
 KazutoMakino
-
 """
 
 import time
