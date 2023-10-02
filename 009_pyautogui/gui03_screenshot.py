@@ -1,4 +1,4 @@
-"""pyautogui のスクリーンショット関連について
+"""Pyautogui のスクリーンショット関連について.
 
 References:
 - https://pyautogui.readthedocs.io/en/latest/
@@ -10,7 +10,6 @@ Blog:
 ---
 
 KazutoMakino
-
 """
 
 from pathlib import Path

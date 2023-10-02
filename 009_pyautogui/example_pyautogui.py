@@ -1,4 +1,4 @@
-"""自動化の例: windows10 においてディスプレイの拡大率の変更を自動化
+"""自動化の例: windows10 においてディスプレイの拡大率の変更を自動化.
 
 References:
 - https://pyautogui.readthedocs.io/en/latest/
@@ -9,7 +9,6 @@ Blog:
 ---
 
 KazutoMakino
-
 """
 
 import time

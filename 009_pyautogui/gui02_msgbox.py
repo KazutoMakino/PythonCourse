@@ -1,4 +1,4 @@
-"""pyautogui のメッセージボックスについて
+"""Pyautogui のメッセージボックスについて.
 
 References:
 - https://pyautogui.readthedocs.io/en/latest/
@@ -10,7 +10,6 @@ Blog:
 ---
 
 KazutoMakino
-
 """
 
 import pyautogui as pg
